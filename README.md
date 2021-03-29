@@ -1,6 +1,6 @@
 ### かんざきひろ先生は神です
 
-<img src="https://user-images.githubusercontent.com/7940186/112781408-55d0ef80-907d-11eb-912f-a671fe4186c1.jpeg" width=375 />
+<img src="https://user-images.githubusercontent.com/7940186/112781607-c6780c00-907d-11eb-9966-e976cf333b14.jpeg" width=375 />
 
 
 <!--
