@@ -1,4 +1,7 @@
-### Hi there 👋
+### かんざきひろ先生は神です
+
+<img src="https://user-images.githubusercontent.com/7940186/112781408-55d0ef80-907d-11eb-912f-a671fe4186c1.jpeg" width=375 />
+
 
 <!--
 **MainasuK/MainasuK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
